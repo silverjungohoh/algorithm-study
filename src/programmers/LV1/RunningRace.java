@@ -1,4 +1,4 @@
-package programmers;
+package programmers.LV1;
 
 // 달리기 경주
 

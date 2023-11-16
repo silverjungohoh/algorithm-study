@@ -1,4 +1,4 @@
-package programmers;
+package programmers.LV1;
 
 // p의 길이 > 1 이상 18 이하이므로 int 범위 넘어감
 

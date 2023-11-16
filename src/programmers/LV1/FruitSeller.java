@@ -1,4 +1,4 @@
-package programmers;
+package programmers.LV1;
 
 // 그리디
 // 1점 = 최하품, k점 = 최상품
